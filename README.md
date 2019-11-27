@@ -13,5 +13,6 @@ Untuk mencoba atau mengulik aplikasi ini, anda harus menyiapkan:
 * Extrack hasil clone, lalu buatlah 1 folder dengan nama MyIntentApp
 * Pindahkan isi dari Intent-App ke folder IntentApp
 
-selamat menjalankan :smile:
+selamat menjalankan.
 ```
+:smile:
